@@ -1,0 +1,9 @@
+SAAS Installation Steps
+
+Instal Anywhere (npm)
+Install Sass if you use Node.js by running the command
+
+npm install -g sass
+
+Check if Sass is installed by running the command
+sass --version
